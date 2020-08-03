@@ -9,6 +9,7 @@ class Counter extends Component {
           My name is {this.props.name}. I am {this.props.age} years old.
         </span>
         <br />
+        <p></p>
         <input
           type='input'
           className=' m-2'
